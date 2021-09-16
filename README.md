@@ -1,2 +1,2 @@
 # EECS204-course
-course project
+This is the course project
